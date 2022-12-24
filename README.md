@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladsus
-- 👀 I’m interested in game development. 
-- 🌱 I’m currently learning GMS2 and Unity.
+- 👀 I’m interested in game development and system administration.
+- 🌱 I’m currently learning GMS2.
 - 💞️ I’m looking to collaborate on Indie games.
 - 📫 How to reach me: just pm on github.
 
