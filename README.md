@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @vladsus
-- 👀 I’m interested in game development and system administration.
-- 🌱 I’m currently learning GMS2.
-- 💞️ I’m looking to collaborate on Indie games.
-- 📫 How to reach me: just pm on github.
+I LIKE BOXING, WEIGHTLIFTING, AND INDIE GAME DEVELOPMENT
 
 <!---
 vladsus/vladsus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
